@@ -13,6 +13,6 @@
 		<input type = "submit" value = "Generate">
 	</form>
 	<h1>The last time you generated a word was: </h1>
-	<h1>This is where date goes</h1>
+	<h1>${timeStamp}</h1>
 </body>
 </html>
